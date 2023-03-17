@@ -1,3 +1,5 @@
+https://vue-crm-6f212.web.app
+
 # vue-crm
 
 ## Project setup
